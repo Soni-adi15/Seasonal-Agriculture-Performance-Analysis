@@ -171,7 +171,9 @@ Based on the observed patterns:
 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
-│
 ├── Seasonal_Agriculture_Performance_Data_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
+├── Major Project_Seasonal Agriculture Performance Analysis.pdf
+├── VOIS_Major_Project_PPT_Submission.pptx
+├── Certificate.pdf
 └── README.md
